@@ -1,4 +1,5 @@
 ### Hi there 👋
+<DSM>1112 Grade
 
 <!--
 **seoyujeong19/seoyujeong19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
